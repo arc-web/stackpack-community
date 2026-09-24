@@ -1,0 +1,37 @@
+name: Project idea
+description: A project you want built, or want a hand building.
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: Tell us what you want to build. Plain words are fine.
+  - type: input
+    id: who
+    attributes:
+      label: Who is asking
+      description: Your Discord name.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What you want to build
+      description: A few lines is plenty.
+    validations:
+      required: true
+  - type: textarea
+    id: finished
+    attributes:
+      label: What finished looks like
+      description: What you would have at the end.
+  - type: input
+    id: discussed
+    attributes:
+      label: Where it was discussed
+      description: The channel or thread in the StackPack Discord.
+  - type: input
+    id: github
+    attributes:
+      label: Your GitHub username
+      description: Only if you want to be the one who builds it.
