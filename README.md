@@ -18,19 +18,19 @@ The Discord is for the conversation. GitHub is where the result lives.
 
 ## Join
 
-1. Post your GitHub username in the introductions forum in the Discord.
-2. You get an invitation to the organisation.
-3. Accept it, and you can make your own repos and open pull requests.
+1. Say hello in the introductions forum in the StackPack Discord.
+2. When you finish onboarding, the assistant makes your own repo here, named after you.
+3. Ask for what you want in the Discord. The assistant builds it, checks it, and saves it in your repo. You never need a GitHub login.
 
 ## The three things you can do
 
-- Make a repo for your own project.
-- Send a change to an existing repo with a pull request.
-- Ask for a repo when the community is working on something together.
+- Ask in the Discord for a project, a fix or a guide, and the assistant builds it in your repo.
+- Suggest an idea or report a problem with the issue forms here.
+- Ask for a shared repo when the community is working on something together.
 
 ## Sending a change
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md). It is five lines long.
+Most changes start as a message in the Discord. If you have a GitHub account and want to send a change yourself, read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## House rules
 

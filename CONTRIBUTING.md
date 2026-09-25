@@ -1,6 +1,6 @@
 # How to send a change
 
-Anyone can send a change. You do not have to be in the organisation to do it.
+Most changes start as a message in the StackPack Discord, and the assistant makes them for you. If you have a GitHub account, you can also send a change yourself.
 
 ## The short version
 
@@ -10,11 +10,9 @@ Anyone can send a change. You do not have to be in the organisation to do it.
 4. In the description, say what you changed and why.
 5. A maintainer reviews it. Small changes usually land the same day.
 
-## If you are in the organisation
+## Who reviews
 
-1. Make a branch in the repo itself.
-2. Open a pull request against the main branch.
-3. Wait for a review. Nobody pushes to the main branch without one.
+Mike and Johan review every change. The assistant runs the security check on everything before it lands. Nobody pushes to the main branch without a review.
 
 ## What gets in
 
