@@ -2,6 +2,8 @@
 
 Anyone can send a change. You do not have to be in the organisation to do it.
 
+Taking part does not need a GitHub account. If you would rather not touch GitHub at all, say what you want in the StackPack Discord, and the community's assistant builds it and saves it here for you.
+
 ## The short version
 
 1. Fork the repo you want to change.
@@ -10,7 +12,9 @@ Anyone can send a change. You do not have to be in the organisation to do it.
 4. In the description, say what you changed and why.
 5. A maintainer reviews it. Small changes usually land the same day.
 
-## If you are in the organisation
+## If you have write access
+
+Mike, Johan and the community's assistant hold write access.
 
 1. Make a branch in the repo itself.
 2. Open a pull request against the main branch.
