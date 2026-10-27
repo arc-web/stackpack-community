@@ -2,7 +2,7 @@
 
 For people and agents. Read this whole file before your first change here.
 Shared ARC rules (Plane, branches, PRs, secrets, release): [ARC contribution handbook](https://github.com/arc-web/agent-config/blob/main/handbook/HANDBOOK.md).
-Repo standard: [repo-standard.md](https://github.com/arc-web/agent-config/blob/main/handbook/repo-standard.md) and [STANDARD.md](https://github.com/arc-web/agent-config/blob/main/handbook/STANDARD.md).
+Repo standard: [rules for every arc-web repo](https://github.com/arc-web/agent-config/blob/main/CONTRIBUTING.md#rules-for-every-arc-web-repo) and [STANDARD.md](https://github.com/arc-web/agent-config/blob/main/handbook/STANDARD.md).
 
 Anyone can send a change. You do not have to be in the organisation to do it.
 Taking part does not need a GitHub account. If you would rather not touch GitHub at all, say what you want in the StackPack Discord, and the community's assistant builds it and saves it here for you.
